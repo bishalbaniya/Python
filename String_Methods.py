@@ -1,0 +1,12 @@
+str = "Ashish Shresthassss"
+print(str)
+print(len(str))
+print(str.lower())
+print(str.upper())
+print(str.rstrip("s"))
+print(str.replace("Shresthassss" , "Shrestha"))
+print(str.split(" "))
+print(str.capitalize())
+print(str.center(50))
+print(len(str.center(50)))
+print(len(str))
